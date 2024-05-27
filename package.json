@@ -5,9 +5,9 @@
    "main": "lib/smd.js",
    "type": "commonjs",  
    "scripts": {
-            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name Ibrahim || node lib/smd.js",
-            "start": "pm2 start lib/smd.js --attach --name Ibrahim",
-            "stop": "pm2 stop Ibrahim"
+            "run": "pm2 start lib/smd.js --deep-monitoring --attach --name vince || node lib/smd.js",
+            "start": "pm2 start lib/smd.js --attach --name vince",
+            "stop": "pm2 stop vince"
    },
    "author": "vince_x",
    "license" :"Apache-2.0",
