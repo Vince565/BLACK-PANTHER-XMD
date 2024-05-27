@@ -3304,7 +3304,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
                             hydratedFooterText: `┌─❖
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  Black Panther MD🎉
+┌┤✑  Vince Tech 🎉
 ││✑  🐦🖐️!!
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
@@ -3360,7 +3360,7 @@ const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 *╚═══❖•ೋ°°ೋ•❖═══╝*
 │「 Hi 👋 」
 └┬❖ 「 ${pushname} 」
-┌┤✑  BLACK PANTHER MD
+┌┤✑  vince MD
 │└───────────────┈ ⳹
 │ 「 BOT INFO 」
 │✙ 𝗦𝗽𝗲𝗲𝗱 : ${latensie.toFixed(4)} miliseconds
@@ -3553,6 +3553,7 @@ case 'allmenu': {
 ┃╠ ${prefix}speedtest
 ┃╠ ${prefix}ping
 ┃╠ ${prefix}owner
+┃╠${acc-balance}opay 8069918096🙄
 ┃╠ ${prefix}menu
 ┃╠ ${prefix}delete
 ┃╠ ${prefix}chatinfo
@@ -3772,7 +3773,8 @@ case 'allmenu': {
 ┃╠${prefix}masasubur (indo)
 ┃╠${prefix}zodiak (indo)
 ┃╠${prefix}shio (indo)
-┃╠${prefix}𝗕𝗟𝗔𝗖𝗞 𝗣𝗔𝗡𝗧𝗛𝗘𝗥 𝗠𝗗
+┃╠${prefix}VINCE MD
+┃╠${acc-balance}opay 8069918096
 ┃╚═══════✍︎ᴰᴵᴰᵁᴸᴬ ᴿᴬˢᴴᴹᴵᴷᴬ
 ┗━「 *Created By ${ownername}*  𖠌」━⭓`
     const template = generateWAMessageFromContent(m.chat, proto.Message.fromObject({
@@ -3817,6 +3819,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠ ${prefix}listgc
 ┃╠ ${prefix}donate
 ┃╠ ${prefix}report [bug]
+┃╠${acc-balance}opay 8069918096🙂
 ┃╚═════════════✪
 ┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube 📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
@@ -3846,6 +3849,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}upvote
 ┃╠${prefix}checkvote
 ┃╠${prefix}delvote
+┃╠${acc-balance}opay 8069918096😶
 ┃╚═════════════✪
 ┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
@@ -3864,6 +3868,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}leaderboard
 ┃╠${prefix}buy [option]
 ┃╠${prefix}sell [option]
+┃╠${acc-balance}opay 8069918096
 ┃╚═════════════✪
 ┗━━「 ${pushname} 」━⭓`,unicorn, [{"urlButton": {"displayText": "YouTube📍","url": `${myweb}`}},{"urlButton": {"displayText": "Script🔖","url": `${sc}`}},{"quickReplyButton": {"displayText": "🍜Donate🍜","id": 'donate'}},{"quickReplyButton": {"displayText": "👤Owner👤","id": 'owner'}}] )
 break
@@ -3875,6 +3880,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╔═✪「 FUN 」	        
 ┃╠ ${prefix}how [text
 ┃╠ ${prefix}when [text]
+┃╠${acc-balance}opay 8069918096🙄
 ┃╠ ${prefix}is [text]
 ┃╠ ${prefix}what [text]
 ┃╠ ${prefix}can [text]
@@ -3974,6 +3980,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}yts [query]
 ┃╠${prefix}google [query]
 ┃╠${prefix}gimage [query]
+┃╠${acc-balance}opay 8069918096
 ┃╠${prefix}pinterest [query]
 ┃╠${prefix}wallpaper [query]
 ┃╠${prefix}wikimedia [query]
@@ -4000,6 +4007,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔✪「 RANDOM ANIME 」	        
 ┃╠${prefix}loli
+┃╠${acc-balance}opay 8069918096🙃
 ┃╠${prefix}bully
 ┃╠${prefix}cuddle
 ┃╠${prefix}cry
@@ -4035,6 +4043,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┏━「 ${botname} 」━━⭓ 
 ┃╔═✪「 TEXT PRO 」	        
 ┃╠ ${prefix}3dchristmas [txt]
+┃╠${acc-balance}opay 8069918096🤫
 ┃╠ ${prefix}3ddeepsea [txt]
 ┃╠ ${prefix}americanflag [txt]
 ┃╠ ${prefix}3dscifi [txt]
@@ -4075,6 +4084,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╔══✪「 CONVERTER 」	        
 ┃╠ ${prefix}toimage [reply stick]
 ┃╠ ${prefix}sticker [reply img|gif]
+┃╠${acc-balance}opay 8069918096🫡
 ┃╠ ${prefix}emojimix [moji+moji]
 ┃╠ ${prefix}tovideo [reply img]
 ┃╠ ${prefix}togif [reply stick]
@@ -4094,6 +4104,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╔═══✪「 DATABASE 」	        
 ┃╠ ${prefix}setcmd
 ┃╠ ${prefix}listcmd
+┃╠${acc-balance}opay 8069918096🤐
 ┃╠ ${prefix}delcmd
 ┃╠ ${prefix}lockcmd
 ┃╠ ${prefix}addmsg
@@ -4136,6 +4147,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╠${prefix}fast [reply aud]
 ┃╠${prefix}fat [reply aud]
 ┃╠${prefix}nightcore [reply aud]
+┃╠${acc-balance}opay 8069918096🫠
 ┃╠${prefix}reverse [reply aud]
 ┃╠${prefix}robot [reply aud]
 ┃╠${prefix}slow [reply aud]
@@ -4150,6 +4162,7 @@ await GojoMdNx.send5ButImg(from, `` + '' + ' ', `
 ┃╔══✪「 HOROSCOPE 」	        
 ┃╠${prefix}nomorhoki (indo)
 ┃╠${prefix}artimimpi (indo)
+┃╠${acc-balance}opay 8069918096😙
 ┃╠${prefix}artinama (indo)
 ┃╠${prefix}ramaljodoh (indo)
 ┃╠${prefix}ramaljodohbali (indo)
