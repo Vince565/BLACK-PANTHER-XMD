@@ -20,7 +20,7 @@ let got = require('got');
 let {execFile} = require('child_process');
 let cwebp = require('cwebp-bin');
 let DataHelp = DataPack.constdata
-let WorkType = Details.WORKTYPE == 'public' ? false : true
+let WorkType = Details.WORKTYPE == 'private' ? false : true
 
 let DataB = require('../DataBase/greetings');
 let DATA = DataHelp.dataGet('greetings');
