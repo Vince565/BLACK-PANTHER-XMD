@@ -1,7 +1,7 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              BLACK PANTHER MD ..., MADE BY IBRAHIM ADAMS
-//                                    IBRAHIM TECH BEST TECH EVER
+//                              VINCE-X MD ..., MADE BY VINCE
+//                                   𝙑𝙄𝙉𝘾𝙀 𝙏𝙀𝘾𝙃 𝙁𝙄𝙍𝙎𝙏 𝘽𝙊𝙏      
 //
 //════════════════════════════//
 
