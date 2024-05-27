@@ -29,7 +29,7 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-panther-md-x)
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https%3A%2F%2Fkingibrahimtech.github.io%2F&template=https%3A%2F%2Fgithub.com%2Fkingibrahimtech%2Fblack-vince-md-x)
 
 <br>
 
@@ -39,16 +39,13 @@
 
 <p align=""><a href="https://repl.it/github/ibrahimaitech/VINCE TECH"> <img src="https://img.shields.io/badge/replit%20Deploy-blue?style=for-the-badge&logo=replit" width="220" height="38.45"/></a>
 
-<br>
 
-
-[vince](https://img.shields.io/badge/FORK%20-BLACK%20PANTHER%20MD-white)](https://github.com/ibrahimaitech/BLACK-PANTHER-XMD/fork)
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <p align="center"><a href="https://black-panther-app-6d384e753bee.herokuapp.com/">
- <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20PANTHER%20APP-marron?style=for-the-badge&logo=blackpanther" width="220" height="38.45"/></a></p>
+ <img src="https://img.shields.io/badge/TAP%20HERE%20TO%20OPEN%20BLACK%20VINCE%20APP-marron?style=for-the-badge&logo=vince" width="220" height="38.45"/></a></p>
 
 
 
